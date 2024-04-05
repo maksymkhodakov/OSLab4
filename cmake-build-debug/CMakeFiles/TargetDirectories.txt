@@ -1,0 +1,5 @@
+/Users/maksymkhodakov/CLionProjects/OSLab4/cmake-build-debug/CMakeFiles/pid_teller.dir
+/Users/maksymkhodakov/CLionProjects/OSLab4/cmake-build-debug/CMakeFiles/process_reader.dir
+/Users/maksymkhodakov/CLionProjects/OSLab4/cmake-build-debug/CMakeFiles/keyboard_hooker.dir
+/Users/maksymkhodakov/CLionProjects/OSLab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maksymkhodakov/CLionProjects/OSLab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
